@@ -1,0 +1,12 @@
+{
+“name”: “Roda da Sorte”,
+“short_name”: “Roda da Sorte”,
+“start_url”: “./”,
+“scope”: “./”,
+“display”: “standalone”,
+“background_color”: “#0B1350”,
+“theme_color”: “#0B1350”,
+“icons”: [
+{ “src”: “icon.png”, “sizes”: “512x512”, “type”: “image/png”, “purpose”: “any” }
+]
+}
